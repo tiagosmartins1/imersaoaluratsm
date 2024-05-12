@@ -1,42 +1,31 @@
-### **Audit SEC AI**
+# Audit SOX AI
 
-**O que é o Audit SEC AI?**
+## Visão Geral
+Audit SOX AI é uma ferramenta de chat assistida por inteligência artificial projetada para ajudar empresas e profissionais de auditoria a navegar pelas complexidades da Lei Sarbanes-Oxley (SOX). Este chatbot fornece orientações claras e precisas sobre as regras de auditoria integrada, além de opiniões sobre controles internos, facilitando o cumprimento das exigências regulatórias.
 
-Audit SEC AI é um chatbot criado para auxiliar na compreensão e navegação do complexo ambiente regulatório dos mercados de capitais dos EUA e das normas do PCAOB para auditores independentes. Ele é projetado para ajudar empresas globais cujas ações são negociadas no mercado norte-americano e seus auditores a manter uma conformidade eficiente e transparente.
+## Características
+- **Consulta Interativa**: Interaja diretamente com nosso AI chatbot para obter respostas específicas sobre a legislação SOX e práticas recomendadas de controle interno.
+- **Base de Conhecimento Atualizada**: Acesso a uma ampla base de dados atualizada regularmente com as últimas alterações e interpretações das normas SOX.
 
 
-### Funcionalidades
-- **Orientação Regulatória:** Fornece informações atualizadas sobre regulamentações do mercado norte-americano e padrões de auditoria do PCAOB.
-- **Interação Amigável:** Interface fácil de usar para acesso rápido às informações regulatórias essenciais.
-- **Insights de Controles Internos:** Proporciona questões e análises que oferecem insights sobre a implementação e eficácia de controles internos, ajudando a fortalecer a governança corporativa.
+## Tecnologias Utilizadas
+- Python
+- APIs de terceiros para consulta de dados regulatórios
 
-### Como Ajuda
-Essa ferramenta é projetada para simplificar e acelerar as atividades diárias dos envolvidos nos processos de auditoria de empresas de capital aberto. Ela atende a profissionais de auditoria, controle interno, comitês de auditoria, auditores externos, analistas financeiros, e outros interessados em compreender rapidamente as regras e diretrizes do mercado financeiro dos EUA.
+## Como Usar
+Para começar a usar o Audit SOX AI, siga estes passos:
+1. Clone este repositório.
+2. Instale as dependências usando `pip install -r requirements.txt`.
+3. Inicie o servidor do chatbot executando `python bot.py`.
+4. Acesse o chatbot através do seu navegador ou integre-o em sua plataforma existente.
 
-### Primeiros Passos
-Para começar a usar o Audit SEC AI, clone este repositório e siga as instruções de configuração presentes na documentação.
 
-Explore como o Audit SEC AI pode simplificar seus processos de conformidade hoje!
+## Contato
+- Responsável pelo projeto: Tiago Martins
+- Link do projeto: [https://github.com/tiagosmartins1/imersaoaluratsm](https://github.com/tiagosmartins/AuditSOXAI)
 
-Escrita por não desenvolvedor :)
--------------------------------
+## Agradecimentos
+- A Alura e Goole pela oportunidade de participar dessa experiência de aprendizado
 
-## English version
 
-## Audit SEC AI
 
-### What is Audit SEC AI?
-This tool is designed to simplify and expedite the daily activities of those involved in the auditing processes of publicly traded companies. It serves auditors, internal control professionals, audit committees, external auditors, corporate financial analysts, and others who seek to quickly understand the rules and guidelines of the U.S. financial market.
-
-### Features
-- **Regulatory Guidance:** Provides up-to-date information on U.S. market regulations and PCAOB auditing standards.
-- **User-Friendly Interaction:** Easy to use interface for quick access to crucial regulatory information.
-- **Insights on Internal Controls:** Offers questions and analyses that provide insights into the implementation and effectiveness of internal controls, helping to strengthen corporate governance.
-
-### How It Helps
-This tool is essential for understanding and complying with regulatory requirements, ensuring that all necessary information is accessible for companies and their auditors to effectively meet U.S. market and PCAOB compliance standards.
-
-### Get Started
-To start using Audit SEC AI, clone this repository and follow the setup instructions in the documentation.
-
-Explore how Audit SEC AI can simplify your compliance processes today!
